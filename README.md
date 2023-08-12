@@ -1,0 +1,7 @@
+# profoundly-overengineered-battleships
+
+This repository was made for a coding task,
+
+It's A Groundbreaking Cloud-Native, AI-Infused, C# Monorepo, Featuring Sophisticated Microservices, Quantum Computing-Optimized, Blockchain-rethink, 3D Rendered, 
+JIT Compiled, Platform independent, Windows built, .NET specific, Reactive mastered, Multilanguage included, Typescript optimized, Unity 3D Inside, Dockerize, 
+Composed, Compiled, Plugin based, React.JS Fueled, Providing Hyper-Realistic Battleship Simulations to Deliver a Revolutionary Gaming Experience.
